@@ -8,16 +8,6 @@ Welcome to Digital Opptur, a performance marketing agency dedicated to open-sour
 
 👥 As a performance marketing agency, we specialize in leveraging data-driven strategies and advanced technologies to help businesses achieve their marketing goals. Whether you're looking to improve your conversion rates, increase your ROI, or enhance your targeting capabilities, we have the tools and expertise to support your success. 💼🔍
 
-## Repository Highlights
-
-📚 Here are some of our notable open-source projects:
-
-1. **CampaignTracker**: A comprehensive campaign tracking solution that allows you to monitor and analyze the performance of your digital marketing campaigns across various channels. 📊📢
-
-2. **OptiSEO**: An SEO optimization tool that helps you improve your website's search engine rankings and drive organic traffic by suggesting targeted keywords, analyzing backlinks, and providing on-page optimization recommendations. 🔍📈
-
-3. **SocialShare**: A social media sharing library that simplifies the integration of social sharing buttons into your website or application, enabling seamless sharing of your content across popular social platforms. 📲📣
-
 ## Get Involved
 
 🎉 We encourage you to explore our open-source projects, contribute to our repositories, and engage with our vibrant community of marketers and developers. Here's how you can get involved:
